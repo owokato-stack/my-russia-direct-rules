@@ -1,0 +1,25 @@
+
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ozon.ru",
+        "ozonusercontent.com",
+        "ozoncdn.com",
+        "avito.ru",
+        "yandex.ru",
+        "yandex.net",
+        "yastatic.net",
+        "music.yandex.ru",
+        "sber.ru",
+        "sberbank.ru",
+        "vtb.ru",
+        "tbank.ru",
+        "tinkoff.ru",
+        "yoomoney.ru",
+        "magnit.ru"
+      ]
+    }
+  ]
+}
